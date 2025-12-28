@@ -7,28 +7,19 @@
 
 <p align="center">
   <a href="https://ritesh-s.netlify.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:iamriteshsubramanian@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-1F2937?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/ritesh-s-hacker/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/riteshsub26" target="_blank">
-    <img
-      src="https://img.shields.io/badge/X-Follow-111827?style=for-the-badge&logo=x&logoColor=white"
-      alt="X"
-    />
+    <img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://github.com/riit3sh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
