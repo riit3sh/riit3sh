@@ -54,29 +54,8 @@ I enjoy profiling, optimizing latency, and making services reliable under load.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=riit3sh&show_icons=true&theme=transparent&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riit3sh&layout=compact&theme=transparent&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=riit3sh&theme=github-compact"
     alt="Contribution Graph"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=riit3sh&theme=flat&row=1&column=7"
-    alt="GitHub Trophies"
   />
 </p>
 
