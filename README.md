@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=520&lines=Hey%2C+I'm+Ritesh+Subramanian+%28riit3sh%29+%F0%9F%91%8B;Pre-Final+B.Tech+CS+Student;Backend+·+Performance+·+AI%2FML"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I%27m+Ritesh+Subramanian+%28riit3sh%29+%F0%9F%91%8B;Pre-Final+B.Tech+CS+Student;Backend+·+Performance+·+AI%2FML"
     alt="Typing SVG"
   />
 </h1>
@@ -51,6 +51,8 @@ I enjoy profiling, optimizing latency, and making services reliable under load.
 ---
 
 ## GitHub Stats
+
+
 
 <p align="center">
   <img
