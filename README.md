@@ -42,10 +42,10 @@ I enjoy profiling, optimizing latency, and making services reliable under load.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go,rust,react,nodejs,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,fastapi&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,docker,aws,git,github&theme=dark" />
 </p>
 
 ---
