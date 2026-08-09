@@ -1,12 +1,12 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I%27m+Ritesh+Subramanian+%28riit3sh%29+%F0%9F%91%8B;Pre-Final+B.Tech+CS+Student;Backend+·+Performance+·+AI%2FML"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I%27m+Ritesh+Subramanian+%28riit3sh%29+%F0%9F%91%8B;Building+Tolka+Edge+%E2%80%94+LLM+Gateway+%26+AI+Infra;Backend+%C2%B7+FastAPI+%C2%B7+Redis+%C2%B7+Async"
     alt="Typing SVG"
   />
 </h1>
 
 <p align="center">
-  <a href="https://ritesh-s.netlify.app/" target="_blank">
+  <a href="https://ritesh-s-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:iamriteshsubramanian@gmail.com">
@@ -18,41 +18,49 @@
   <a href="https://x.com/riteshsub26" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://github.com/riit3sh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  
 </p>
 
 ---
 
 ## About Me
 
-I’m **Ritesh Subramanian (riit3sh)** — a Pre-Final B.Tech Computer Science student at VIT Vellore based in **Chennai, India**.  
-I focus on building **high-performance backend systems**, designing for **scale**, and integrating **practical AI/ML solutions**.  
-I enjoy profiling, optimizing latency, and making services reliable under load.
+I'm **Ritesh Subramanian (riit3sh)** — a Pre-Final Year B.Tech Computer Science student at **VIT Vellore**.
 
-- **Role:** Pre-Final B.Tech CS Student @ VIT Vellore  
-- **Education:** B.Tech Computer Science @ VIT Vellore  
-- **Focus areas:** Backend & Performance Engineering · Scalable Systems · Applied AI/ML  
+I'm currently building **Tolka Edge**, an LLM gateway and AI infrastructure platform focused on:
+
+- Authentication & multi-tenant key management  
+- Redis-backed rate limiting  
+- Multi-provider routing & failover  
+- Observability and production reliability  
+
+I care about clean backend design, performance, and systems that can actually run in production.
+
+- **Focus:** Backend Engineering · AI Infrastructure · LLM Gateways  
+- **Stack:** Python, FastAPI, Redis, Docker, Async  
 - **Contact:** iamriteshsubramanian@gmail.com  
-- **Fun fact:** Always thinking about how to contribute, add value, and continuously improve  
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,docker,postgres,git&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,docker,aws,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,nodejs,react,cpp&theme=dark" />
 </p>
 
 ---
 
+## Current Work
+
+**Tolka Edge** — LLM Gateway & AI Infrastructure  
+Building a production-oriented gateway that handles auth, rate limiting, routing, and observability for LLM workloads. Using FastAPI + Redis with a focus on clean architecture and real-world reliability.
+
+---
+
 ## GitHub Stats
-
-
 
 <p align="center">
   <img
@@ -63,14 +71,6 @@ I enjoy profiling, optimizing latency, and making services reliable under load.
 
 ---
 
-## Shoutouts
-
-- **ThePrimeagen**  
-- **Forrest Knight**  
-- **Harkirat Singh**
-
----
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=riit3sh&label=Profile+Views&color=0F172A"
@@ -78,5 +78,5 @@ I enjoy profiling, optimizing latency, and making services reliable under load.
 </p>
 
 <p align="center">
-  <b>Let’s build scalable, high-impact systems.</b>
+  <b>Building production AI infrastructure.</b>
 </p>
